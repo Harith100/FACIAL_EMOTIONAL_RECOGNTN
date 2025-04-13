@@ -33,7 +33,7 @@ This project uses **OpenCV** and **DeepFace** to detect faces and analyze emotio
 
 3. **Run the Application**
    ```bash
-   python face_emotion_detection.py
+   python face2.py
    ```
    * The program will start capturing video from the webcam, and display the dominant emotion detected from the face in real-time.
 
